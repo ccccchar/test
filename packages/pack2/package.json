@@ -15,7 +15,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "https://npm.corp.kuaishou.com/"
+    "registry": "http://registry.npmjs.org/"
   },
   "scripts": {
     "test": "node ./__tests__/pack2.test.js"
@@ -23,5 +23,5 @@
   "dependencies": {
     "vue": "^3.1"
   },
-  "gitHead": "57715035e0403d818b7733346b8eaa839786ca1c"
+  "gitHead": "29382ef581fe866275f80935d4b55dd074ff02fa"
 }
