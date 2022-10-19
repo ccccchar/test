@@ -15,7 +15,7 @@
     "lib"
   ],
   "publishConfig": {
-    "registry": "http://registry.npmjs.org/"
+    "registry": "https://registry.npmjs.org/"
   },
   "scripts": {
     "test": "node ./__tests__/pack3.test.js"
@@ -23,5 +23,5 @@
   "dependencies": {
     "vue": "^3"
   },
-  "gitHead": "af1bc7f1d9f5841d58d5a7e91c4462366f1e0be1"
+  "gitHead": "ff3a296187bf80eb08d221527d91332124f41ae4"
 }

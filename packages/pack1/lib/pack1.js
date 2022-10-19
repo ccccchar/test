@@ -3,5 +3,5 @@
 module.exports = pack1;
 
 function pack1() {
-    return "Hello from pack1,修改4";
+    return "Hello from pack1,修改6";
 }
