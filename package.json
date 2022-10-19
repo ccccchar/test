@@ -1,6 +1,7 @@
 {
   "name": "root",
   "private": true,
+  "repository": "git@github.com:ccccchar/test.git",
   "workspaces": [
     "packages/*"
   ],
