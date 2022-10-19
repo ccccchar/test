@@ -1,0 +1,25 @@
+{
+  "name": "pack1",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "char <char.com>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/pack1.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "publishConfig": {
+    "registry": "https://npm.corp.kuaishou.com/"
+  },
+  "scripts": {
+    "test": "node ./__tests__/pack1.test.js"
+  },
+  "dependencies": {
+    "vue": "^2.6"
+  }
+}
