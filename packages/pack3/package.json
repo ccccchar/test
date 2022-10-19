@@ -1,5 +1,5 @@
 {
-  "name": "pack3",
+  "name": "char-pack3",
   "version": "0.0.4",
   "description": "> TODO: description",
   "author": "char <char.com>",
@@ -23,5 +23,5 @@
   "dependencies": {
     "vue": "^3"
   },
-  "gitHead": "29382ef581fe866275f80935d4b55dd074ff02fa"
+  "gitHead": "af1bc7f1d9f5841d58d5a7e91c4462366f1e0be1"
 }
