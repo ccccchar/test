@@ -3,6 +3,7 @@
   "version": "0.0.2",
   "description": "> TODO: description",
   "author": "char <char.com>",
+  "repository": "git@github.com:ccccchar/test.git",
   "homepage": "",
   "license": "ISC",
   "main": "lib/pack1.js",
@@ -21,5 +22,6 @@
   },
   "dependencies": {
     "vue": "^2.6"
-  }
+  },
+  "gitHead": "57715035e0403d818b7733346b8eaa839786ca1c"
 }

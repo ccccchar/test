@@ -6,6 +6,7 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/pack3.js",
+  "repository": "git@github.com:ccccchar/test.git",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -21,5 +22,6 @@
   },
   "dependencies": {
     "vue": "^3"
-  }
+  },
+  "gitHead": "57715035e0403d818b7733346b8eaa839786ca1c"
 }

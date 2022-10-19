@@ -2,6 +2,7 @@
   "name": "pack2",
   "version": "0.0.2",
   "description": "> TODO: description",
+  "repository": "git@github.com:ccccchar/test.git",
   "author": "char <char.com>",
   "homepage": "",
   "license": "ISC",
@@ -21,5 +22,6 @@
   },
   "dependencies": {
     "vue": "^3.1"
-  }
+  },
+  "gitHead": "57715035e0403d818b7733346b8eaa839786ca1c"
 }
