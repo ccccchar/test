@@ -21,6 +21,8 @@
     "test": "node ./__tests__/pack3.test.js"
   },
   "dependencies": {
+    "char-pack1": "workspace:^0.2.0",
+    "lodash": "^4.17.21",
     "vue": "^3"
   },
   "gitHead": "e35368172b2e39fc359392f5ec47d0eaf15233f3"
