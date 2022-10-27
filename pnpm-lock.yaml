@@ -4,12 +4,7 @@ importers:
 
   .:
     specifiers:
-      char-pack2: workspace:^2.0.0
       lerna: ^5.6.2
-      pack2: link:../pack2
-    dependencies:
-      char-pack2: link:packages/pack2
-      pack2: link:../pack2
     devDependencies:
       lerna: 5.6.2
 
