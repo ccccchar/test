@@ -9,7 +9,5 @@
     "lerna": "^5.6.2"
   },
   "dependencies": {
-    "char-pack2": "workspace:^2.0.0",
-    "pack2": "link:../pack2"
   }
 }
