@@ -1,6 +1,6 @@
 {
   "name": "char-pack3",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "> TODO: description",
   "author": "char <char.com>",
   "homepage": "",
@@ -21,7 +21,7 @@
     "test": "node ./__tests__/pack3.test.js"
   },
   "dependencies": {
-    "char-pack1": "workspace:^0.2.0",
+    "char-pack1": "workspace:^0.2.1",
     "lodash": "^4.17.21",
     "vue": "^3"
   },

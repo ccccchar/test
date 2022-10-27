@@ -22,7 +22,7 @@ importers:
 
   packages/pack3:
     specifiers:
-      char-pack1: workspace:^0.2.0
+      char-pack1: workspace:^0.2.1
       lodash: ^4.17.21
       vue: ^3
     dependencies:
