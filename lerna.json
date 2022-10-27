@@ -3,5 +3,11 @@
   "packages": ["packages/*"],
   "useWorkspaces": true,
   "version": "independent",
+  "command": {
+    "publish": {
+      "conventionalCommits": true,
+      "message": "[skip ci] chore: release"
+    }
+  },
   "ignoreChanges": ["**/node_modules/**"]
 }
