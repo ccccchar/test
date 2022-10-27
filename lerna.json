@@ -1,6 +1,13 @@
 {
-  "$schema": "node_modules/lerna/schemas/lerna-schema.json",
-  "useNx": true,
+  "npmClient": "pnpm",
+  "packages": ["packages/*"],
   "useWorkspaces": true,
-  "version": "independent"
+  "version": "independent",
+  "command": {
+    "publish": {
+      "conventionalCommits": true,
+      "message": "[skip ci] chore: release"
+    }
+  },
+  "ignoreChanges": ["**/node_modules/**"]
 }

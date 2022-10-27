@@ -21,6 +21,8 @@
     "test": "node ./__tests__/pack1.test.js"
   },
   "dependencies": {
+    "char-pack2": "link:../pack2",
+    "pack2": "link:../packages/pack2",
     "vue": "^2.6"
   },
   "gitHead": "e35368172b2e39fc359392f5ec47d0eaf15233f3"
